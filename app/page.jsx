@@ -5,7 +5,7 @@ export default function Landing() {
         Welcome to Our Wedding Celebration
       </h1>
       <h3 className="text-xl text-[#6b705c] mb-12">
-        Choose what you'd like to do:
+      Choose what you would like to do:
       </h3>
       <div className="flex space-x-4">
         <a
